@@ -1,52 +1,44 @@
-# Hi 👋, swasthik k karkera 
+<h1 align="center">
+  Hey there, I'm Swasthik 👋
+</h1>
 
-### Full Stack Developer | Open Source Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=CSD+Student;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Hackathon+Builder;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-I'm a developer passionate about building useful and scalable applications.
+<p align="center">
 
-## 🚀 About Me
+<img src="https://img.shields.io/badge/🎓-CSD%20Student-purple?style=for-the-badge">
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning Cloud & DevOps
-- 🔭 Working on interesting projects
-- 📚 Always learning new technologies
-- 📍 India
+<img src="https://img.shields.io/badge/💻-BUILDER-orange?style=for-the-badge">
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/🤖-AI%20%7C%20ML-blue?style=for-the-badge">
 
-### Languages
-JavaScript • TypeScript • Python • Java
+<img src="https://img.shields.io/badge/🚀-HACKATHON%20ENTHUSIAST-ff69b4?style=for-the-badge">
 
-### Frontend
-React • Next.js • HTML • CSS
+</p>
 
-### Backend
-Node.js • Express • REST APIs
+---
 
-### Database
-MongoDB • PostgreSQL • MySQL
+## 🧑‍💻 About Me
 
-## 📌 Featured Projects
+```python
+class Swasthik:
 
-### Project 1
-A short description of your project.
+    name = "Swasthik"
+    role = "Developer | AI Enthusiast"
+    location = "India"
 
-🔗 Live Demo  
-🔗 Source Code
+    interests = [
+        "Full Stack Development",
+        "AI & ML",
+        "Hackathons",
+        "Building Projects"
+    ]
 
-### Project 2
-Another short description of your project.
+    currently = "Learning & Building 🚀"
 
-🔗 Live Demo  
-🔗 Source Code
+    fun_fact = "I love turning ideas into projects."
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-## 📫 Connect With Me
-
-- LinkedIn
-- Portfolio
-- Email
-
+    def greet(self):
+        return "Let's build something awesome together 🚀"
