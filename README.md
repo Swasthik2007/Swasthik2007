@@ -113,7 +113,7 @@ JAVASCRIPT   ████████████████░░░░░░ 
 
 I enjoy hackathons because they push me to:
 
-`💡 THINK` → `🧠 SOLVE` → `💻 BUILD` → `🚀 DEPLOY`
+`💡 THINK` → `🧠 SOLVE` → `💻 BUILD` → `🚀 DEMO`
 
 ### 🇮🇳 Smart India Hackathon
 
@@ -132,8 +132,6 @@ I enjoy hackathons because they push me to:
 </div>
 
 <br>
-
-<!-- PROJECT 01 -->
 
 <div align="center">
 
@@ -159,8 +157,6 @@ I enjoy hackathons because they push me to:
 
 ---
 
-<!-- PROJECT 02 -->
-
 <div align="center">
 
 ## 🚗 PORTABLE DRIVER DROWSINESS ALERT SYSTEM
@@ -185,8 +181,6 @@ I enjoy hackathons because they push me to:
 
 ---
 
-<!-- PROJECT 03 -->
-
 <div align="center">
 
 ## 🔎 LOST & FOUND SYSTEM FOR AUTORICKSHAWS
@@ -210,8 +204,6 @@ I enjoy hackathons because they push me to:
 `Full Stack` `React` `Database` `APIs`
 
 ---
-
-<!-- PROJECT 04 -->
 
 <div align="center">
 
@@ -259,13 +251,17 @@ I enjoy hackathons because they push me to:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
