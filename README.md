@@ -1,265 +1,246 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SWASTHIK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Design%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Swasthik+%F0%9F%91%8B;CSD+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%8F%86;Building+Ideas+%E2%86%92+Turning+Them+Into+Reality+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=SWASTHIK&fontSize=65&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,14,16,18,20"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Swasthik+%F0%9F%91%8B;Computer+Science+%26+Design+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%8F%86;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CSD%20STUDENT-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-8A2BE2?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF00FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/HACKATHON%20BUILDER-00FF88?style=for-the-badge&labelColor=050505"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-# 👋 Hey there, I'm Swasthik!
-
 <div align="center">
 
-### 🎓 Computer Science & Design Student
+## ⚡ `WHO AM I?`
 
-### 💻 Full Stack Developer
-
-### 🤖 AI/ML Enthusiast
-
-### 🏆 Hackathon Participant
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Builder;Learning+%7C+Building+%7C+Experimenting;Code+%2B+Creativity+%2B+Innovation;Always+working+on+something+new+%F0%9F%9A%80" />
 
 </div>
 
-I'm a **Computer Science & Design student** passionate about technology, development, AI, and innovation.
+<br>
 
-I enjoy taking an idea, turning it into a solution, and building something that can actually be used in the real world.
-
-```text
-💡 Idea
-   ↓
-🧠 Learn
-   ↓
-💻 Build
-   ↓
-🧪 Experiment
-   ↓
-🚀 Deploy
-   ↓
-🔥 Improve
-```
+> 🎓 I'm **Swasthik**, a Computer Science & Design student passionate about technology, software development, AI/ML, and innovation.
+>
+> 💻 I enjoy building full-stack applications and experimenting with different technologies.
+>
+> 🏆 I love participating in hackathons and solving real-world problems.
+>
+> 🤖 Currently exploring the world of AI, Machine Learning, and intelligent applications.
 
 ---
-
-# 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Full Stack Development
-
-Building modern web applications and exploring both frontend and backend technologies.
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-Exploring AI/ML and finding ways to integrate intelligent solutions into applications.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🏆 Hackathons
-
-Participating in hackathons and working on real-world problems under time constraints.
-
-</td>
-
-<td>
-
-### 🧠 Problem Solving
-
-Learning by building projects, experimenting with technologies, and solving practical problems.
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
 
 <div align="center">
 
-## 💻 Programming Languages
+## 🧠 `MY TECH UNIVERSE`
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,git,github,vscode,figma&perline=6" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1500&pause=400&color=F7DF1E&center=true&vCenter=true&width=700&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Java;JavaScript+%7C+React+%7C+HTML+%7C+CSS;AI+%7C+Machine+Learning+%7C+Full+Stack;Git+%7C+GitHub+%7C+VS+Code" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 `PROGRAMMING LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 
 <br><br>
 
-## 🌐 Frontend
+```text
+PYTHON       ████████████████████░░   AI / ML / Development
+C            ████████████████░░░░░░   Programming Fundamentals
+C++          ███████████████░░░░░░░   Problem Solving
+JAVA         ██████████████░░░░░░░░   Application Development
+JAVASCRIPT   ████████████████░░░░░░   Web Development
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 `FULL STACK DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 <br><br>
 
-## 🤖 AI / ML
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Interfaces;Creating+Interactive+User+Experiences;Connecting+Frontend+%2B+Backend;Turning+Ideas+Into+Working+Applications" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 `AI / MACHINE LEARNING`
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
-## 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Python+for+AI+%F0%9F%90%8D;Exploring+Intelligent+Solutions+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 🏆 Hackathons & Innovation
+# 🏆 Hackathons
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Think+%F0%9F%92%A1+%E2%86%92+Build+%F0%9F%92%BB+%E2%86%92+Innovate+%F0%9F%9A%80;Hackathons+%7C+Innovation+%7C+Real-World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&width=750&lines=IDEA+%E2%86%92+PROBLEM+%E2%86%92+SOLUTION+%E2%86%92+BUILD+%E2%86%92+DEMO;Hackathons+are+where+ideas+come+alive+%F0%9F%94%A5" />
 
 </div>
 
-I enjoy participating in hackathons because they allow me to:
+I enjoy hackathons because they push me to:
 
-* 💡 Explore new ideas
-* 🧠 Solve real-world problems
-* 🤝 Work with a team
-* ⚡ Build under pressure
-* 🚀 Turn concepts into working solutions
+`💡 THINK` → `🧠 SOLVE` → `💻 BUILD` → `🚀 DEPLOY`
 
 ### 🇮🇳 Smart India Hackathon
 
-Currently exploring an AI-powered solution involving:
+**Focus:** AI + Competency Mapping + Personalized Learning
 
-**AI + Competency Mapping + Personalized Learning + Data Analytics**
-
-The idea focuses on identifying skill gaps and creating personalized learning paths using AI.
+> An AI platform that maps an official's role to required statistical competencies, identifies the skill gap, and creates a personalized learning path.
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Projects+are+where+I+turn+knowledge+into+experience+%F0%9F%9A%80" />
+
+</div>
+
 ### 🤖 AI Competency Learning Platform
 
-> An AI-powered platform that maps an official's role to required competencies, identifies skill gaps, and creates a personalized learning path.
+**AI-powered personalized learning platform**
 
-**Tech:** `Python` `AI/ML` `React` `APIs`
+`Python` `AI/ML` `React` `APIs`
 
 ---
 
 ### 🚗 Portable Driver Drowsiness Alert System
 
-> A smart safety system that detects signs of driver drowsiness and provides an immediate alert.
+**Detects driver drowsiness and provides an immediate alert.**
 
-**Tech:** `ESP32-CAM` `Sensors` `Embedded Programming`
+`ESP32-CAM` `Sensors` `Embedded Programming`
 
 ---
 
 ### 🔎 Lost & Found System for Autorickshaws
 
-> A platform designed to help passengers and autorickshaw drivers report, match, and recover lost items.
+**Helps passengers and drivers report, match and recover lost items.**
 
-**Tech:** `Full Stack` `Database` `APIs`
+`Full Stack` `Database` `APIs`
 
 ---
 
 ### 👕 Timeless — Fashion Platform
 
-> A modern fashion/thrift platform focused on collections, combos, accessories, and an aesthetic shopping experience.
+**Modern fashion/thrift platform with collections, combos and accessories.**
 
-**Tech:** `React` `JavaScript` `Full Stack`
+`React` `JavaScript` `Full Stack`
 
 ---
 
-# 📚 Currently Learning
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=22C55E&center=true&vCenter=true&width=600&lines=Learning+Full+Stack+Development+%F0%9F%92%BB;Exploring+AI%2FML+%F0%9F%A4%96;Improving+Problem+Solving+%F0%9F%A7%A0;Building+More+Real-World+Projects+%F0%9F%9A%80" />
+## 🔥 `CURRENTLY BUILDING MYSELF`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1600&pause=400&color=00FF88&center=true&vCenter=true&width=800&lines=Learning+Full+Stack+Development...;Exploring+AI+%2F+ML...;Building+Real-World+Projects...;Preparing+For+More+Hackathons...;Leveling+Up+Every+Day+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
 ---
 
-# 🐍 My Contribution Journey
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<!-- After setting up the snake workflow in your repository -->
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 💭 Developer Mindset
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Don't+just+learn+technology.+Build+with+it.;Learn+%E2%86%92+Build+%E2%86%92+Fail+%E2%86%92+Improve+%E2%86%92+Repeat.;Every+project+is+another+step+forward." />
+## ⚡ `THE DEVELOPER LOOP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1000&pause=300&color=00F7FF&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT;CODE+%E2%86%92+TEST+%E2%86%92+DEBUG+%E2%86%92+DEPLOY;THINK+%E2%86%92+CREATE+%E2%86%92+INNOVATE+%E2%86%92+GROW" />
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 💭 My Philosophy
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Don't+just+learn+technology.+Build+with+it.;Every+bug+is+another+thing+learned.;Every+project+makes+me+a+better+developer.;Keep+Learning.+Keep+Building.+Keep+Growing." />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 LET'S CONNECT
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+awesome+together!+%F0%9F%9A%80" />
 
-<div align="center">
+<br><br>
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Keep+Growing+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling"/>
 
 </div>
