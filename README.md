@@ -127,39 +127,121 @@ I enjoy hackathons because they push me to:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Projects+are+where+I+turn+knowledge+into+experience+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=IDEAS+%E2%86%92+CODE+%E2%86%92+PROJECTS+%E2%86%92+IMPACT;Building+real-world+solutions+with+technology+%F0%9F%9A%80" />
 
 </div>
 
-### 🤖 AI Competency Learning Platform
+<br>
 
-**AI-powered personalized learning platform**
+<!-- PROJECT 01 -->
 
-`Python` `AI/ML` `React` `APIs`
+<div align="center">
+
+## 🤖 AI COMPETENCY LEARNING PLATFORM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1600&pause=500&color=A855F7&center=true&vCenter=true&width=750&lines=AI-Powered+Personalized+Learning;Identify+Skill+Gaps+%E2%86%92+Create+Learning+Paths;AI+%2B+Competency+Mapping+%2B+Analytics" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,react,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+> 🧠 An AI-powered platform that maps an official's role to required statistical competencies, identifies skill gaps, and creates a personalized learning path.
+
+`AI` `Machine Learning` `Python` `React` `APIs`
 
 ---
 
-### 🚗 Portable Driver Drowsiness Alert System
+<!-- PROJECT 02 -->
 
-**Detects driver drowsiness and provides an immediate alert.**
+<div align="center">
 
-`ESP32-CAM` `Sensors` `Embedded Programming`
+## 🚗 PORTABLE DRIVER DROWSINESS ALERT SYSTEM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=00FF88&center=true&vCenter=true&width=750&lines=Detect+%E2%86%92+Analyze+%E2%86%92+Alert;Real-Time+Driver+Safety+System;Making+Roads+Safer+With+Technology+%F0%9F%9A%97" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32--CAM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-00A67D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDED-FF6F00?style=for-the-badge"/>
+
+</div>
+
+> 👁️ A smart safety system that monitors the driver and detects signs of drowsiness, triggering an immediate alert.
+
+`ESP32-CAM` `Sensors` `Embedded Programming` `IoT`
 
 ---
 
-### 🔎 Lost & Found System for Autorickshaws
+<!-- PROJECT 03 -->
 
-**Helps passengers and drivers report, match and recover lost items.**
+<div align="center">
 
-`Full Stack` `Database` `APIs`
+## 🔎 LOST & FOUND SYSTEM FOR AUTORICKSHAWS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=750&lines=Lost+Something%3F+%F0%9F%94%8D;Report+%E2%86%92+Match+%E2%86%92+Notify+%E2%86%92+Recover;Technology+For+Real-World+Problems+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge"/>
+
+</div>
+
+> 🔍 A platform that helps passengers and autorickshaw drivers report, match, and recover lost items.
+
+`Full Stack` `React` `Database` `APIs`
 
 ---
 
-### 👕 Timeless — Fashion Platform
+<!-- PROJECT 04 -->
 
-**Modern fashion/thrift platform with collections, combos and accessories.**
+<div align="center">
 
-`React` `JavaScript` `Full Stack`
+## 👕 TIMELESS — FASHION PLATFORM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF69B4&center=true&vCenter=true&width=750&lines=Vintage+Style+%2B+Modern+Technology;Collections+%7C+Combos+%7C+Accessories;Building+An+Aesthetic+Shopping+Experience+%F0%9F%9B%8D%EF%B8%8F" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+> 🛍️ A modern fashion/thrift platform focused on quality products, collections, combos, and accessories.
+
+`React` `JavaScript` `Full Stack` `E-Commerce`
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1200&pause=400&color=00F7FF&center=true&vCenter=true&width=700&lines=MORE+PROJECTS+COMING+SOON...;BUILDING+%7C+LEARNING+%7C+EXPERIMENTING;STAY+TUNED+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
