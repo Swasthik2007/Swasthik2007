@@ -1,46 +1,156 @@
-<!-- ======================= HEADER ======================= -->
+# 👋 Hey there, I'm Swasthik!
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=80&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Swasthik" />
-</h1>
+### 💻 CSD Student | Full Stack Developer | AI/ML Enthusiast | Hackathon Participant
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=70&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Developer+%7C+AI+%26+ML+Enthusiast;CSD+Student+%7C+Builder;Always+Learning+%26+Building+%F0%9F%9A%80" />
+I'm a **Computer Science & Design student** who loves building things, learning new technologies, and turning ideas into real-world solutions.
+
+🚀 I enjoy participating in **hackathons**, developing **full-stack applications**, exploring **AI/ML**, and working on projects that solve practical problems.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science & Design (CSD) Student
+* 💻 Full Stack Developer
+* 🤖 AI/ML Enthusiast
+* 🏆 Hackathon Participant
+* 🧠 Interested in Problem Solving & Building Real-World Solutions
+* 🌱 Always learning and exploring new technologies
+* ⚡ I love turning ideas into working projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
+### 🌐 Full Stack Development
 
-<img src="https://img.shields.io/badge/CSD%20STUDENT-6A5ACD?style=for-the-badge&logo=google-scholar&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<img src="https://img.shields.io/badge/BUILDER-FF8C00?style=for-the-badge&logo=github&logoColor=white">
+### 🤖 AI / ML
 
-<img src="https://img.shields.io/badge/AI%20%7C%20ML-00BFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python%20for%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/HACKATHON-FF69B4?style=for-the-badge&logo=hackthebox&logoColor=white">
+### 🧰 Tools & Platforms
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## 🏆 Hackathons & Innovation
 
-```python
-class Swasthik:
+I enjoy participating in hackathons where I can work on real-world problems, collaborate with others, and build practical technology solutions.
 
-    name = "Swasthik"
-    role = "Developer | AI Enthusiast"
-    location = "India"
+### 🚀 Smart India Hackathon
 
-    interests = [
-        "Full Stack Development",
-        "AI & ML",
-        "Hackathons",
-        "Building Projects"
-    ]
+Currently exploring innovative solutions involving:
 
-    currently = "Learning & Building 🚀"
+**AI + Competency Mapping + Personalized Learning + Data Analytics**
 
-    fun_fact = "I love turning ideas into projects."
+> Building technology that can identify skill gaps and create personalized learning paths using AI.
 
-    def greet(self):
-        return "Let's build something awesome together 🚀"
+---
+
+## 💡 Featured Projects
+
+### 🤖 AI Competency Learning Platform
+
+An AI-powered platform that maps an official's role to required competencies, identifies skill gaps, and creates a personalized learning path.
+
+**Tech:** AI • Python • React • APIs
+
+---
+
+### 🚗 Portable Driver Drowsiness Alert System
+
+A smart safety system that detects driver drowsiness and provides an immediate alert.
+
+**Tech:** ESP32-CAM • Sensors • Embedded Programming
+
+---
+
+### 🔎 Lost & Found System for Autorickshaws
+
+A system designed to help passengers and autorickshaw drivers report, match, and recover lost items.
+
+**Tech:** Full Stack Development • Database • APIs
+
+---
+
+### 👕 Timeless — Fashion Website
+
+A modern fashion/thrift platform focused on quality products, collections, combos, and accessories.
+
+**Tech:** React • JavaScript • Full Stack Development
+
+---
+
+## 📚 Currently Learning
+
+```text
+Full Stack Development    ███████████████░░
+AI / Machine Learning     █████████████░░░░
+React                     ██████████████░░░
+Backend Development       ████████████░░░░
+Problem Solving           ███████████████░░
+```
+
+> 🚀 Learning. Building. Experimenting. Improving.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 My Developer Mindset
+
+> **"Don't just learn technology. Build with it."**
+
+I believe the best way to learn is by creating, experimenting, failing, and building again.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, creators, and people interested in technology and innovation.
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep building. Keep learning. Keep growing. 🚀**
